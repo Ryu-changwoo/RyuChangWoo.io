@@ -1,0 +1,13 @@
+---
+title: "Yoo ChangWoo"
+image: https://img.insight.co.kr/static/2019/12/28/700/rv59vz81j80h85ui36p6.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Ryu-changwoo
+
+---
+
+안녕하세요~ 집에서 놀고 먹는 중입니다!

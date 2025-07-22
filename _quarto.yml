@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Ryu blog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/Ryu-changwoo
+
+format:
+  html:
+    theme:
+      - sketchy
+      - brand
+    css: styles.css
+
